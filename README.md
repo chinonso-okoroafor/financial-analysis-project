@@ -10,22 +10,6 @@
 ![CAPM](https://img.shields.io/badge/CAPM-Valuation%20Modeling-red)  
 ![Finance](https://img.shields.io/badge/Finance-Ratio%20Analysis%20+%20Benchmarking-purple)
 
----
-
-## 🎯 Executive Summary — Why This Project Stands Out
-
-> 💡 **Recruiter’s Endorsement**:  
-> *“This is what I look for in a Business Analytics or Financial Data Scientist: the ability to ingest raw financial statements, engineer clean datasets, calculate 15+ KPIs, benchmark across industries, build valuation models (CAPM), and translate findings into strategic recommendations. You didn’t just analyze numbers — you told a story about business models, risk, and investment potential. You’re ready for roles in equity research, FP&A, consulting, or fintech analytics.”*
-
-✅ **Real-World Financial Analysis**: Conducted horizontal, vertical, and ratio analysis on **Rightmove (RMV.L)** — UK’s #1 property portal — and **WPP (WPP.L)** — world’s largest advertising group.  
-✅ **Investment Thesis via CAPM**: Built a **Security Market Line (SML)** to evaluate risk-adjusted returns — concluded RMV is **undervalued**, WPP is **fairly valued**.  
-✅ **Business Model Deconstruction**: Explained why RMV’s 100% gross margin (SaaS model) drives superior profitability vs. WPP’s 17.6% (labor-intensive agency model).  
-✅ **Data Engineering at Scale**: Cleaned, standardized, and aggregated financial statements using **R and Excel** — transforming messy reports into structured, analyzable datasets.  
-✅ **Strategic Recommendations**: Advised RMV to “capitalize on undervaluation” and WPP to “improve working capital and deleverage” — actionable insights for executives.  
-✅ **Professional Communication**: Structured report with executive summary, visualizations, limitations, and reflective learning — mirrors deliverables at McKinsey, Goldman, or Bloomberg.
-
----
-
 ## 📊 Core Analysis & Business Insights
 
 ### 1. 📈 Financial Ratio Benchmarking (2021–2022)
