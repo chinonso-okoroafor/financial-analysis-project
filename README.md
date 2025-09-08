@@ -154,22 +154,6 @@ You didn’t just calculate ratios — you **explained why they differ**:
 
 > ⚠️ Data sourced from Rightmove (2022) and WPP (2022) annual reports. Market data (beta, Rf) from Bloomberg/Reuters.
 
----
-
-## 🌟 Why I’d Hire This Candidate (Recruiter’s Verdict)
-
-> “You’ve proven you can:
-> - **Think like an investor** — using CAPM to identify undervalued stocks.
-> - **Speak finance fluently** — explaining why gross margin differs between SaaS and services.
-> - **Engineer financial data** — cleaning and standardizing statements programmatically.
-> - **Tell a strategic story** — connecting ratios to business model, risk, and recommendations.
-> - **Acknowledge limitations** — e.g., ‘CAPM assumes constant beta — but it changes in recessions.’
->
-> You’re not just an analyst — you’re a **strategic finance partner**. I’d assign you to my most complex valuation or M&A due diligence projects.”
-
-— *Professional Recruiting Manager, Data Science & Business Analytics (ex-Goldman, ex-McKinsey)*
-
----
 
 ## 📚 References & Data Sources
 
