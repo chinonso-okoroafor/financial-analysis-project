@@ -1,8 +1,7 @@
 
 ---
 
-# 💼 Financial Deep Dive: Rightmove PLC vs WPP PLC — Business Analytics & Investment Valuation  
-> *A Professional-Grade Equity Research Report Using Ratio Analysis, CAPM, and Strategic Benchmarking*
+# Financial Deep Dive: Rightmove PLC vs WPP PLC — Business Analytics & Investment Valuation  
 
 ![R](https://img.shields.io/badge/R-Financial%20Modeling-blue?logo=r)  
 ![Excel](https://img.shields.io/badge/Excel-Dashboarding%20+%20Analysis-green?logo=microsoftexcel)  
@@ -10,7 +9,7 @@
 ![CAPM](https://img.shields.io/badge/CAPM-Valuation%20Modeling-red)  
 ![Finance](https://img.shields.io/badge/Finance-Ratio%20Analysis%20+%20Benchmarking-purple)
 
-## 📊 Core Analysis & Business Insights
+## Core Analysis & Business Insights
 
 ### 1. 📈 Financial Ratio Benchmarking (2021–2022)
 
@@ -23,11 +22,11 @@
 | **Receivables Days**    | 0.06              | 187.3             | RMV collects instantly (online). WPP waits 6+ months for client payments.         |
 | **Gearing Ratio**       | 10.6%             | 62.6%             | RMV = low debt, conservative. WPP = leveraged growth, higher financial risk.      |
 
-> 📌 **Key Takeaway**: RMV is a **high-margin, cash-generative, low-risk** business. WPP is a **low-margin, asset-heavy, leveraged** operator. Apples-to-oranges comparison — but that’s the point. You understood context.
+> **Key Takeaway**: RMV is a **high-margin, cash-generative, low-risk** business. WPP is a **low-margin, asset-heavy, leveraged** operator. Apples-to-oranges comparison — but that’s the point. You understood context.
 
 ---
 
-### 2. 📉 Capital Asset Pricing Model (CAPM) — Investment Valuation
+### 2. Capital Asset Pricing Model (CAPM) — Investment Valuation
 
 Built a **CAPM Security Market Line** to evaluate risk vs. return:
 
@@ -44,11 +43,11 @@ Expected Return = Risk-Free Rate + Beta × (Market Return - Risk-Free Rate)
 ![CAPM SML Plot](screenshots/capm_sml.png)  
 *Fig: RMV.L (blue) above SML = undervalued. WPP.L (red) on SML = fairly valued.*
 
-> 📌 **Investor Insight**: “Buy RMV for alpha. Hold WPP for market-aligned returns.”
+> **Investor Insight**: “Buy RMV for alpha. Hold WPP for market-aligned returns.”
 
 ---
 
-### 3. 🔄 Horizontal & Vertical Analysis — Spotting Trends
+### 3. Horizontal & Vertical Analysis — Spotting Trends
 
 #### ➤ Revenue Growth (YoY):
 - **RMV**: +9.1% (driven by property transaction volume + premium listings)  
@@ -62,11 +61,11 @@ Expected Return = Risk-Free Rate + Beta × (Market Return - Risk-Free Rate)
 - **RMV**: Total assets ↓ 5.4% (reduced cash, lower receivables)  
 - **WPP**: Total assets ↑ 3.4% (↑ receivables, ↑ PP&E — signaling investment in capabilities)
 
-> 📌 **Strategic Insight**: RMV is optimizing for efficiency. WPP is investing for growth — but at the cost of margins and leverage.
+> **Strategic Insight**: RMV is optimizing for efficiency. WPP is investing for growth — but at the cost of margins and leverage.
 
 ---
 
-### 4. 🧩 Business Model Intelligence
+### 4. Business Model Intelligence
 
 You didn’t just calculate ratios — you **explained why they differ**:
 
@@ -78,11 +77,11 @@ You didn’t just calculate ratios — you **explained why they differ**:
 | **Capital Intensity**| Low (servers, software)                  | High (offices, studios, talent)            |
 | **Risk Profile**   | Low debt, high cash → defensive            | High debt, low liquidity → aggressive      |
 
-> 💡 **Recruiter’s Note**: This is **consulting-grade insight**. You mapped financial metrics to operational reality — a rare and valuable skill.
+> **Recruiter’s Note**: This is **consulting-grade insight**. You mapped financial metrics to operational reality — a rare and valuable skill.
 
 ---
 
-## 🛠️ Technical Stack & Methodologies
+## Technical Stack & Methodologies
 
 | Area                  | Tools & Techniques                                                                 | Business Value                                  |
 |-----------------------|------------------------------------------------------------------------------------|------------------------------------------------|
@@ -95,7 +94,7 @@ You didn’t just calculate ratios — you **explained why they differ**:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── MATH525_Report.pdf              # Full coursework report (professional format)
@@ -116,11 +115,11 @@ You didn’t just calculate ratios — you **explained why they differ**:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/financial-analysis-rmv-wpp.git
+   git clone https://github.com/chinonso-okoroafor/financial-analysis-rmv-wpp.git
    cd financial-analysis-rmv-wpp
    ```
 
@@ -136,10 +135,10 @@ You didn’t just calculate ratios — you **explained why they differ**:
    source("code/capm_analysis.R")
    ```
 
-> ⚠️ Data sourced from Rightmove (2022) and WPP (2022) annual reports. Market data (beta, Rf) from Bloomberg/Reuters.
+> Data sourced from Rightmove (2022) and WPP (2022) annual reports. Market data (beta, Rf) from Bloomberg/Reuters.
 
 
-## 📚 References & Data Sources
+## References & Data Sources
 
 - **Rightmove Annual Report 2022**: [plc.rightmove.co.uk](https://plc.rightmove.co.uk)  
 - **WPP Annual Report 2022**: [www.wpp.com](https://www.wpp.com)  
@@ -148,21 +147,5 @@ You didn’t just calculate ratios — you **explained why they differ**:
   - Palepu, K., Healy, P., & Peek, E. (2020). *Business Analysis and Valuation*.  
   - Penman, S. (2021). *Financial Statement Analysis and Security Valuation*.  
   - Brooks, R. (2015). *Financial Management: Core Concepts*.
-
----
-
-## 🤝 Connect & Collaborate
-
-👤 **Author**: [Your Name]  
-📧 **Email**: [your.email@example.com]  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile]  
-🎓 **Program**: MSc Data Science and Business Analytics, University of Plymouth
-
-> 👉 *Open to roles in: Financial Data Science, Equity Research, FP&A, Consulting, Corporate Strategy, Fintech.*
-
----
-
-✅ **Last Updated**: December 2023  
-✅ **License**: MIT — Use, adapt, learn, and build upon this work!
 
 ---
