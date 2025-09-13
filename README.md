@@ -11,7 +11,7 @@
 
 ## Core Analysis & Business Insights
 
-### 1. 📈 Financial Ratio Benchmarking (2021–2022)
+### 1. Financial Ratio Benchmarking (2021–2022)
 
 | Metric                  | Rightmove (RMV.L) | WPP (WPP.L)       | Business Insight                                                                 |
 |-------------------------|-------------------|-------------------|----------------------------------------------------------------------------------|
